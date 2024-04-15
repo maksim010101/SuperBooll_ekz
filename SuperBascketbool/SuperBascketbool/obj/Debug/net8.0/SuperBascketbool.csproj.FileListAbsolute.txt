@@ -1,0 +1,7 @@
+/home/user/RiderProjects/SuperBascketbool/SuperBascketbool/obj/Debug/net8.0/SuperBascketbool.csproj.AssemblyReference.cache
+/home/user/RiderProjects/SuperBascketbool/SuperBascketbool/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/home/user/RiderProjects/SuperBascketbool/SuperBascketbool/obj/Debug/net8.0/Avalonia/resources
+/home/user/RiderProjects/SuperBascketbool/SuperBascketbool/obj/Debug/net8.0/SuperBascketbool.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/RiderProjects/SuperBascketbool/SuperBascketbool/obj/Debug/net8.0/SuperBascketbool.AssemblyInfoInputs.cache
+/home/user/RiderProjects/SuperBascketbool/SuperBascketbool/obj/Debug/net8.0/SuperBascketbool.AssemblyInfo.cs
+/home/user/RiderProjects/SuperBascketbool/SuperBascketbool/obj/Debug/net8.0/SuperBascketbool.csproj.CoreCompileInputs.cache
